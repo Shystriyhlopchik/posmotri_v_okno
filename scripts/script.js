@@ -2,7 +2,7 @@
 const preloaderWaitindTime = 1200;
 const cardsOnPage = 5;
 const BASE_URL = 'https://v-content.practicum-team.ru';
-const endpoint = `${BASE_URL}/api/videos?pagination[pageSize]=${cardsOnPage}&`;
+const endpoint = `${BASE_URL}/api/vieos?pagination[pageSize]=${cardsOnPage}&`;
 
 /* ЭЛЕМЕНТЫ СТРАНИЦЫ */
 const cardsContainer = document.querySelector('.content__list');

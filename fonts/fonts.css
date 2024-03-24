@@ -5,6 +5,8 @@
   font-style: normal;
 }
 
+/*отсутствует Oswald-Regular */
+
 @font-face {
   font-family: 'Fira Sans Condensed';
   src: url(FiraSansCondensed-Regular.woff2) format('woff2'), url(FiraSansCondensed-Regular.woff) format('woff');
